@@ -8,3 +8,7 @@ dist/
 public/pagefind/
 image-cards/
 docs/interview/面试宝典
+
+.ipynb_checkpoints/
+pytorch_learning_outputs/
+pytorch_simple_outputs/
